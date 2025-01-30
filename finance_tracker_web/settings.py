@@ -40,7 +40,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #Applications créées par moi
-    'authentication'
+    'authentication' # Ajout de l'application 1
+    'education',  # Ajout de l'application 2
+
 ]
 
 MIDDLEWARE = [
