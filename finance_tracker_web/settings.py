@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #Applications créées par moi
-    'authentication'
+    'authentication' # Ajout de l'application authentication
+
 ]
 
 MIDDLEWARE = [
